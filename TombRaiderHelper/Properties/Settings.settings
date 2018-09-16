@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TombRaiderHelper.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SaveKey" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">75</Value>
+    </Setting>
+    <Setting Name="LoadKey" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">76</Value>
+    </Setting>
+    <Setting Name="NoclipKey" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">78</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
