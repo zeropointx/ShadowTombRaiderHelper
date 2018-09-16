@@ -20,4 +20,12 @@ Potential features:
 - Fix for noclip & save/load not forcing the position but rather attempting to move to correct position
 - Cutscene skip cheat?
 
+Showcase of the tool (Might be outdated in the future)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=vRSB1k1Mvkc" target="_blank"><img src="http://img.youtube.com/vi/vRSB1k1Mvkc/0.jpg" 
+alt="Youtube link" width="240" height="180" border="10" /></a>
+
+![This is what tool looks like](https://i.gyazo.com/7ed2bac0f8029e9b17d0a6f8165c1cf2.png "This is what tool looks like")
+
+
 [Download exe link](https://github.com/zeropointx/ShadowTombRaiderHelper/releases)
+
