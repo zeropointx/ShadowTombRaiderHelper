@@ -19,3 +19,5 @@ Potential features:
 - Saving & loading camera rotation too along with Lara's position
 - Fix for noclip & save/load not forcing the position but rather attempting to move to correct position
 - Cutscene skip cheat?
+
+[Download exe link](https://github.com/zeropointx/ShadowTombRaiderHelper/releases)
