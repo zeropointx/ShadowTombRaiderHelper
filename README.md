@@ -2,6 +2,11 @@
 
 This tool is made to help test out speedrun jumps, skips & bugs.
 
+
+### Download
+[Download exe link (If you don't want source)](https://github.com/zeropointx/ShadowTombRaiderHelper/releases)
+
+
 ### Current features:
 - Save Location (Default K, Rebindable by dropdown menu)
 - Load Location (Default L, Rebindable by dropdown menu)
@@ -28,7 +33,4 @@ Showcase of the tool (Might be outdated in the future)
 alt="Youtube link" width="440" height="380" border="10" /></a>
 
 ![This is what tool looks like](https://i.gyazo.com/7ed2bac0f8029e9b17d0a6f8165c1cf2.png "This is what tool looks like")
-
-### Download
-[Download exe link](https://github.com/zeropointx/ShadowTombRaiderHelper/releases)
 
