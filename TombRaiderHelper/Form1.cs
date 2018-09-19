@@ -193,7 +193,7 @@ namespace TombRaiderHelper
                 return new IntPtr();
             IntPtr startOffset = proc.MainModule.BaseAddress;
             long baseAddress = startOffset.ToInt64();
-            long randomOffset = 0x1E6C298;
+            long randomOffset = 0x3522EC8;
             IntPtr firstBaseAddr = new IntPtr(baseAddress + randomOffset);
             ulong firstBasePointer = ReadUnsignedInt64(proc, firstBaseAddr);
             ulong randomOffset2 = 0x8;
@@ -209,7 +209,7 @@ namespace TombRaiderHelper
                 return new IntPtr();
             IntPtr startOffset = proc.MainModule.BaseAddress;
             long baseAddress = startOffset.ToInt64();
-            long randomOffset = 0x1E6C298;
+            long randomOffset = 0x3522EC8;
             IntPtr firstBaseAddr = new IntPtr(baseAddress + randomOffset);
             ulong firstBasePointer = ReadUnsignedInt64(proc, firstBaseAddr);
             ulong randomOffset2 = 0x8;
@@ -264,7 +264,7 @@ namespace TombRaiderHelper
                         WriteMem(p, xPtr, x);
                         WriteMem(p, yPtr, y);
                         WriteMem(p, zPtr, z);
-                        Thread.Sleep(10);
+                        Thread.Sleep(1);
                     }
                 }).Start();
             }
